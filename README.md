@@ -1,6 +1,6 @@
 # Quode Palette Clipboard
 
-A fast, lightweight clipboard manager for Windows. It sits in your system tray, keeps your clipboard history, and pastes any item with a single click.
+A fast, lightweight clipboard manager for Windows. It sits in your system tray, keeps your clipboard history, and pastes any item with a single click. 
 
 <p align="center">
   <img src="docs/Screenshot1.png" alt="Quode Palette Clipboard popup open on the desktop, showing text and image history" width="100%">
